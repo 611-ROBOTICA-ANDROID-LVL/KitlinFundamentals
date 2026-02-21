@@ -1,6 +1,6 @@
 package com.example.lib
 
-
+//Ejercicio 04
 fun main() {
     val numero = 7
 var resultado = 0

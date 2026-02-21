@@ -1,5 +1,5 @@
 package com.example.lib
-
+//Ejercicio 05
 fun main() {
     val numeros = listOf(12345, 9081, 100, 19092005, 22122005)
 

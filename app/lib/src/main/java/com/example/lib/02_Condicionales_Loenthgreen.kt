@@ -1,4 +1,4 @@
-
+//Ejercicio 02
 
 fun main() {
     val calificaciones = listOf(45, 72, 91, 60, 85, 99, 34,19,24)

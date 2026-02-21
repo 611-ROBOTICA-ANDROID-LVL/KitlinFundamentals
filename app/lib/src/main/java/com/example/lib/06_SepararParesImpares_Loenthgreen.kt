@@ -1,6 +1,6 @@
 package com.example.lib
 
-
+//Ejercicio 06
 
 fun main() {
     val numeros = listOf(4, 7, 12, 15, 8, 3, 22, 11, 6, 9, 13, 19, 74)
