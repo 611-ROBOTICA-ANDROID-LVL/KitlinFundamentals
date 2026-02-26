@@ -15,14 +15,14 @@ import com.pjasoft.kotlinfundamentals.ui.theme.KotlinFundamentalsTheme
 
 
 //variables INMUTABLES
-val name : String = "Loenthgreen"
-
-//Variable INMUTABLE
-var age : Int = 28
-var ages : int? = null
-
-ages 29
-
+//val name : String = "Loenthgreen"
+//
+////Variable INMUTABLE
+//var age : Int = 28
+//var ages : int? = null
+//
+//ages 29
+//
 
 
 //Tipos de Datos: int, string, double, float, char, array, boolean
