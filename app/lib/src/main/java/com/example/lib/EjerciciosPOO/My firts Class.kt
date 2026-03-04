@@ -1,4 +1,4 @@
-package com.example.lib
+package com.example.lib.EjerciciosPOO
 
 class Persona (val nombre: String, val edad: Int, val ciudad: String) {
 
