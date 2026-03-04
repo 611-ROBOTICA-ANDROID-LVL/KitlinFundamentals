@@ -11,6 +11,7 @@ fun main() {
     var u = 0
 
 
+
     for (c in palabra.lowercase()) {
         when (c) {
             'a' -> a++
